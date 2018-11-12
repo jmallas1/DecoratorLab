@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BasicCharacter"},{"p":"<Unnamed>","l":"Character"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Shield"},{"p":"<Unnamed>","l":"Spear"},{"p":"<Unnamed>","l":"Starving"},{"p":"<Unnamed>","l":"Sword"}]
